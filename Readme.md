@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Павел Григорьев](https://up.htmlacademy.ru/adaptive/17/user/564549).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Григорьев](https://up.htmlacademy.ru/adaptive/17/user/564549).
 
 ---
 
